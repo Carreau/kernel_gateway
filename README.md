@@ -1,5 +1,7 @@
 # Jupyter Kernel Gateway
 [![Documentation Status](http://readthedocs.org/projects/jupyter-kernel-gateway/badge/?version=latest)](http://jupyter-kernel-gateway.readthedocs.org/en/latest/?badge=latest)
+[![Code Health](https://landscape.io/github/jupyter/kernel_gateway/master/landscape.svg?style=flat)](https://landscape.io/github/jupyter/kernel_gateway/master)
+
 
 ## Overview
 
